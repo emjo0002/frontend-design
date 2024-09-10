@@ -1,7 +1,6 @@
 section {
     max-width: 1200px;
     padding-inline: 1rem;
-
     display: grid;
     grid-template-rows: 1fr auto;
     grid-template-columns: 2.5fr 1.5fr 1fr;
